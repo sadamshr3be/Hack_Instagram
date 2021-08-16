@@ -26,7 +26,11 @@ $ bash lasharabi.sh
 https://t.me/termuxalsharabi
 
 
+# المدونة علـّۓ. جوجل
+
+https://termuxalsharabi.blogspot.com
 حسابي الانستجرام
+
 
 
 https://instagram.com/sadam_alsharabi?igshid=1wlndj3lf8pdm
